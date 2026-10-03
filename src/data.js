@@ -1,0 +1,98 @@
+export const products = [
+  {
+    id: 1,
+    name: "Maize",
+    price: 90,
+    quantity: 100,
+  },
+  {
+    id: 2,
+    name: "Rice",
+    price: 120,
+    quantity: 50,
+  },
+  {
+    id: 3,
+    name: "Wheat",
+    price: 100,
+    quantity: 75,
+  },
+  {
+    id: 4,
+    name: "Beans",
+    price: 150,
+    quantity: 30,
+  },
+  {
+    id: 5,
+    name: "Sorghum",
+    price: 80,
+    quantity: 60,
+  },
+  {
+    id: 6,
+    name: "Millet",
+    price: 70,
+    quantity: 40,
+  },
+  {
+    id: 7,
+    name: "Barley",
+    price: 110,
+    quantity: 20, 
+  },
+  {
+    id: 8,
+    name: "Cassava",
+    price: 60,
+    quantity: 90,
+  },
+  {
+    id: 9,
+    name: "Sweet Potatoes",
+    price: 50,
+    quantity: 80,
+  },
+  {
+    id: 10,
+    name: "Yams",
+    price: 100,
+    quantity: 70,
+  },
+  {
+    id: 11,
+    name: "Potatoes",
+    price: 90,
+    quantity: 100,
+  },
+  {
+    id: 12,
+    name: "Onions",
+    price: 120,
+    quantity: 50,
+  },
+  {
+    id: 13,
+    name: "Tomatoes",
+    price: 100,
+    quantity: 75,
+  },
+  {
+    id: 14,
+    name: "Cabbage",
+    price: 150,
+    quantity: 30,
+  },
+  {
+    id: 15,
+    name: "Carrots",
+    price: 80,
+    quantity: 60,
+  },
+  {
+    id: 16,
+    name: "Spinach",
+    price: 70,
+    quantity: 40,
+  },
+];
